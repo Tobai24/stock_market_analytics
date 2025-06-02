@@ -1,4 +1,4 @@
-# stock_market_analytics_zoomcamp
+# stock_market_analytics
 
 This repository tracks my progress as I explore the stock market, following the content of the DataTalksClub Stock Market Analytics course.
 
