@@ -18,4 +18,23 @@ I'm mainly a medical student, but I love exploring things beyond medicine and in
 - Essential Principles for API Selection
   - Considerations for selecting the right API for your data needs.
   - When it becomes necessary to consider payment options in the API selection process.
-- [Homework](week_one/homework.ipynb)
+- [Homework](module_one/homework.ipynb)
+
+### [Module 2: Working with the Data (in Pandas)](02-dataframe-analysis/)
+
+- The Core Libraries for Data Analysis in Python
+  - Explore the core libraries: Numpy, Pandas, and Matplotlib (including Seaborn and Plotly Express).
+- Understanding Data Types and Manipulation
+  - Delve into various data types: numeric, string, and date categories.
+  - Master the art of generating dummy variables for comprehensive analysis.
+- Enhancing Datasets with Feature Generation Techniques
+  - Derive additional features such as hour/day of the week, growth over different periods.
+  - Incorporate technical indicators using the TaLib library.
+  - Understand predictive elements, including future growth over a week, a month, or a year.
+- Effective Data Cleaning Strategies
+  - Learn strategies for cleaning and preparing data for analysis.
+  - Acquire skills in joining multiple datasets for a holistic view.
+- Thorough Descriptive Analysis
+  - Conduct a comprehensive descriptive analysis of the dataset.
+  - Explore correlations within the data to uncover meaningful insights.
+- [Homework](module_two/homework.ipynb)
